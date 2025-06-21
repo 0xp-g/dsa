@@ -1,0 +1,31 @@
+**Kadane's Algorithm – Maximum Subarray (Leetcode 53) – Crash Notes**
+
+* **Problem**: Find contiguous subarray with largest sum.
+* **Key idea**: At each index, decide whether to start a new subarray or continue the current one.
+
+**Algorithm (Kadane’s Algorithm)**:
+
+* Initialize:
+  `current_sum = max_sum = nums[0]`
+* For each element `x` from index 1 onward:
+  `current_sum = max(x, current_sum + x)`
+  `max_sum = max(max_sum, current_sum)`
+* Return `max_sum`
+
+**Why it works**:
+
+* If `current_sum < 0`, adding it to the next element reduces the sum → reset.
+* Maintains running total only when it contributes positively.
+
+**Edge Cases**:
+
+* Handles all-negative arrays because initial `max_sum` is set to `nums[0]`, not `0`.
+
+**Time**: O(n)
+**Space**: O(1)
+
+**Memory Aid**:
+
+* Reset sum if it drags you down.
+* `current_sum` = best subarray *ending* at current index.
+* `max_sum` = best seen *anywhere* so far.
