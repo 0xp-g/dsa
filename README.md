@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
