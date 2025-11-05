@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/0xp-g/dsa/tree/master/0039-combination-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
+| [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 ## Queue
 |  |
