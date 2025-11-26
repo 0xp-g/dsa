@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/0xp-g/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0xp-g/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/0xp-g/dsa/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
