@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Number Theory
 |  |
 | ------- |
