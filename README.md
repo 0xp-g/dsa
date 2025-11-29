@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 ## Design
