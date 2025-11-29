@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0xp-g/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/0xp-g/dsa/tree/master/2769-find-the-maximum-achievable-number) |
 | [3336-water-bottles-ii](https://github.com/0xp-g/dsa/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Bit Manipulation
