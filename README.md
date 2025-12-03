@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/0xp-g/dsa/tree/master/0039-combination-sum) |
+| [0152-maximum-product-subarray](https://github.com/0xp-g/dsa/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/0xp-g/dsa/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/0xp-g/dsa/tree/master/0152-maximum-product-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
