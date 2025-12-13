@@ -1,7 +1,7 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
 
-        @lru_cache(None)
+        @cache
         def dp(n):
 
             if n == 0:
