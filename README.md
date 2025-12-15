@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/0xp-g/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/0xp-g/dsa/tree/master/0070-climbing-stairs) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/0xp-g/dsa/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/0xp-g/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/0xp-g/dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/0xp-g/dsa/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/0xp-g/dsa/tree/master/0300-longest-increasing-subsequence) |
