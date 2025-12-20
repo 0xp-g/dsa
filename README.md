@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
+| [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0xp-g/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
