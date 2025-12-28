@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3771-total-score-of-dungeon-runs](https://github.com/0xp-g/dsa/tree/master/3771-total-score-of-dungeon-runs) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
