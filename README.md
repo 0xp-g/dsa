@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0xp-g/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/0xp-g/dsa/tree/master/2769-find-the-maximum-achievable-number) |
 | [3336-water-bottles-ii](https://github.com/0xp-g/dsa/tree/master/3336-water-bottles-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Depth-First Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0xp-g/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/0xp-g/dsa/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/0xp-g/dsa/tree/master/0079-word-search) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Sorting
 |  |
 | ------- |
