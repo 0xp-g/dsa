@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/0xp-g/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3771-total-score-of-dungeon-runs](https://github.com/0xp-g/dsa/tree/master/3771-total-score-of-dungeon-runs) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 ## Queue
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
