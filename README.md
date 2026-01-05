@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0xp-g/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
@@ -247,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
