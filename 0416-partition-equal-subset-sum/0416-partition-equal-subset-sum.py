@@ -12,4 +12,5 @@ class Solution:
                 return True
             if dp(i-1, target-nums[i]) or dp(i-1, target):
                 return True
-        return True if dp(n-1, S/2) else False
+            return False
+        return dp(n-1, S/2)
