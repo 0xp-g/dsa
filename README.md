@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3453-separate-squares-i](https://github.com/0xp-g/dsa/tree/master/3453-separate-squares-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
 |  |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/0xp-g/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0xp-g/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Recursion
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
