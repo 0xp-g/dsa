@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
+| [0461-hamming-distance](https://github.com/0xp-g/dsa/tree/master/0461-hamming-distance) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
