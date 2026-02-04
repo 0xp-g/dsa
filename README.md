@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/0xp-g/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/0xp-g/dsa/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/0xp-g/dsa/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
@@ -342,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/0xp-g/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/0xp-g/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xp-g/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
