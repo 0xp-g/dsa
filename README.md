@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/0xp-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/0xp-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
