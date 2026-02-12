@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Math
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Depth-First Search
 |  |
