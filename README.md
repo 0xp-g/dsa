@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/0xp-g/dsa/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/0xp-g/dsa/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/0xp-g/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/0xp-g/dsa/tree/master/0064-minimum-path-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/0xp-g/dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/0xp-g/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/0xp-g/dsa/tree/master/0064-minimum-path-sum) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xp-g/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -415,5 +419,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
