@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/0xp-g/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/0xp-g/dsa/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/0xp-g/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xp-g/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/0xp-g/dsa/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
