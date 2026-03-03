@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0xp-g/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/0xp-g/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/0xp-g/dsa/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/0xp-g/dsa/tree/master/2351-first-letter-to-appear-twice) |
