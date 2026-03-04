@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/0xp-g/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xp-g/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/0xp-g/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/0xp-g/dsa/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xp-g/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/0xp-g/dsa/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/0xp-g/dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/0xp-g/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0xp-g/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 ## Tree
 |  |
@@ -490,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xp-g/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/0xp-g/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/0xp-g/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
