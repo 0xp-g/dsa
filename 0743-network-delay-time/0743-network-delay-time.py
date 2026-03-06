@@ -3,22 +3,20 @@ class Solution:
         graph = defaultdict(list)
         for u, v, w in times:
             graph[u].append((v, w))
-        dist = [float('inf')] * (n + 1)
-        pq = [(0, k)]
+        heap = [(k, 0,)]
+        dist = [inf] * (n+1)
         dist[k] = 0
-        while pq:
-            dist_so_far, node = pq.pop()
-            if dist_so_far > dist[node]:
+        while heap:
+            node, current_dist = heappop(heap)
+            if current_dist > dist[node]:
                 continue
-            else:
-                for nei, wei in graph[node]:
-                    if dist_so_far + wei < dist[nei]:
-                        dist[nei] = dist_so_far + wei
-                        heappush(pq, (dist_so_far + wei, nei))
-        res = float('-inf')
-        for i in range(1, n + 1):
-            if dist[i] == float('inf'):
+            for neighbor, nei_dist in graph[node]:
+                if current_dist + nei_dist < dist[neighbor]:
+                    dist[neighbor] = current_dist + nei_dist
+                    heappush(heap, (neighbor, dist[neighbor]))
+        maxtime = 0
+        for time in dist[1:]:
+            if time == inf:
                 return -1
-            res = max(res, dist[i])
-        else:
-            return res
+            maxtime = max(maxtime, time)
+        return maxtime
