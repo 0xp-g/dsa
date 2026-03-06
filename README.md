@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/0xp-g/dsa/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 ## Tree
 |  |
