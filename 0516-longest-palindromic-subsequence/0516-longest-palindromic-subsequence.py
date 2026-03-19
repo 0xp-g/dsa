@@ -2,14 +2,14 @@ class Solution:
     def longestPalindromeSubseq(self, s1: str) -> int:
         s2 = s1[::-1]
         n = len(s1)
-        @lru_cache(None)
-        def lcs(i, j):
-            if i == n or j == n:
-                return 0
-            else:
-                if s1[i] == s2[j]:
-                    res = 1 + lcs(i+1, j+1)
+        dp = [[0] * (n+1) for _ in range(n+1)]
+        for i in range(n-1, -1, -1):
+            for j in range(n-1, -1, -1):
+                if i == n or j == n:
+                    continue
                 else:
-                    res = max(lcs(i+1, j), lcs(i, j+1))
-            return res
-        return lcs(0, 0)
+                    if s1[i] == s2[j]:
+                        dp[i][j] = 1 + dp[i+1][j+1]
+                    else:
+                        dp[i][j] = max(dp[i][j+1], dp[i+1][j])
+        return dp[0][0]
