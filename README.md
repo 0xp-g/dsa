@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/0xp-g/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3771-total-score-of-dungeon-runs](https://github.com/0xp-g/dsa/tree/master/3771-total-score-of-dungeon-runs) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/0xp-g/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/0xp-g/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
