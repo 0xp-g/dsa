@@ -13,11 +13,11 @@ class Solution:
         
         dsu = DSU(len(nums) + 1, hmap)
 
-        for i in range(len(nums)):
-            if nums[i] + 1 in hmap:
-                dsu.union(hmap[nums[i]], hmap[nums[i] + 1])
-            if nums[i] - 1 in hmap:
-                dsu.union(hmap[nums[i]], hmap[nums[i] - 1])
+        for k in hmap.keys():
+            if k + 1 in hmap:
+                dsu.union(hmap[k], hmap[k + 1])
+            if k - 1 in hmap:
+                dsu.union(hmap[k], hmap[k - 1])
         
         return max(dsu.size)
         
