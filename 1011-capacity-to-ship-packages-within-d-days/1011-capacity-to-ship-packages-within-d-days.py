@@ -1,6 +1,6 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        lsum, l, n = sum(weights), min(weights), len(weights)
+        lsum, l, n = sum(weights), max(weights), len(weights)
         r = lsum
         
         def helper(mid):
