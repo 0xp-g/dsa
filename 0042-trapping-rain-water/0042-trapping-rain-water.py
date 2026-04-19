@@ -1,20 +1,15 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-
-        n = len(height)
-        prefmax = [-1] * n
-        suffmax = [-1] * n
+        length = len(height)
+        prefmax = [-1] * length
+        suffmax = [-1] * length
         prefmax[0] = height[0]
-        suffmax[n-1] = height[n-1]
-        res = 0
-
-        for i in range(1, n):
-            prefmax[i] = max(prefmax[i-1], height[i])
-
-        for i in range(n-2, -1, -1):
-            suffmax[i] = max(suffmax[i+1], height[i])
-
-        for i in range(n):
-            res += min(prefmax[i], suffmax[i]) - height[i]
-            
-        return res
+        suffmax[length-1] = height[length-1]
+        water = 0
+        for ptr in range(1, length):
+            prefmax[ptr] = max(height[ptr], prefmax[ptr-1])
+        for ptr in range(length-2, -1, -1):
+            suffmax[ptr] = max(height[ptr], suffmax[ptr+1])
+        for bar in range(length):
+            water += min(prefmax[bar], suffmax[bar]) - height[bar]
+        return water
