@@ -12,7 +12,7 @@ class Solution:
             elif nums[mid] == 2:
                 nums[mid], nums[high] = nums[high], nums[mid]
                 high -= 1
-                #don't increment mid yet. nums[mid] can be 1!
+                #don't increment mid yet. nums[mid] can be 0!
             else:
                 mid += 1
         return nums
