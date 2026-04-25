@@ -1,15 +1,18 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        low, mid, high = 0, 0, len(nums)-1
-        while mid <= high:
+        n = len(nums)
+        low = 0
+        mid = 0
+        high = n-1
+        while high >= mid:
             if nums[mid] == 0:
                 nums[low], nums[mid] = nums[mid], nums[low]
                 low += 1
                 mid += 1
-            elif nums[mid] == 1:
-                mid += 1
-            else:
+            elif nums[mid] == 2:
                 nums[mid], nums[high] = nums[high], nums[mid]
                 high -= 1
-                #dont increment mid immediately, leave it to the natural flow as the new mid can contain 0 which will get swapped ata next iteration
+                #don't increment mid yet. nums[mid] can be 1!
+            else:
+                mid += 1
         return nums
