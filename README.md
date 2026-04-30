@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/0xp-g/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/0xp-g/dsa/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xp-g/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/0xp-g/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/0xp-g/dsa/tree/master/0216-combination-sum-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xp-g/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/0xp-g/dsa/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/0xp-g/dsa/tree/master/0300-longest-increasing-subsequence) |
