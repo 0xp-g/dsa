@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xp-g/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/0xp-g/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/0xp-g/dsa/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/0xp-g/dsa/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/0xp-g/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/0xp-g/dsa/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/0xp-g/dsa/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0xp-g/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
