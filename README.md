@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3771-total-score-of-dungeon-runs](https://github.com/0xp-g/dsa/tree/master/3771-total-score-of-dungeon-runs) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
+| [3834-merge-adjacent-equal-elements](https://github.com/0xp-g/dsa/tree/master/3834-merge-adjacent-equal-elements) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/0xp-g/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3336-water-bottles-ii](https://github.com/0xp-g/dsa/tree/master/3336-water-bottles-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/0xp-g/dsa/tree/master/3834-merge-adjacent-equal-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/0xp-g/dsa/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3834-merge-adjacent-equal-elements](https://github.com/0xp-g/dsa/tree/master/3834-merge-adjacent-equal-elements) |
 ## Topological Sort
 |  |
 | ------- |
