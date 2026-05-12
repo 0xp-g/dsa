@@ -1,13 +1,15 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        hmap = {}
-        maxlen, l = 1, 0
-        for r in range(len(s)):
+        n = len(s)
+        l = 0
+        res = 1
+        hmap = dict()
+        for r in range(n):
             hmap[s[r]] = hmap.get(s[r], 0) + 1
             while l <= r and (r-l+1) - max(hmap.values()) > k:
                 hmap[s[l]] -= 1
-                if not hmap[s[l]]:
+                if hmap[s[l]] == 0:
                     del hmap[s[l]]
                 l += 1
-            maxlen = max(maxlen, r-l+1)
-        return maxlen
+            res = max(res, r-l+1)
+        return res
