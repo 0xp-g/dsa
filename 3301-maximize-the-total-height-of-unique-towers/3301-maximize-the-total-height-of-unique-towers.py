@@ -1,22 +1,11 @@
 class Solution:
-    def maximumTotalSum(self, maximumHeight: List[int]) -> int:
-        maximumHeight.sort(reverse=True)
-        maxval = maximumHeight[0]
-        hmap = set()
-        res = 0
-        for i in range(len(maximumHeight)):
-            temp = maximumHeight[i]
-            if not hmap:
-                minval = temp
-                hmap.add(temp)
-                res += temp
-                continue
-            while temp in hmap:
-                temp = minval
-                temp -= 1
-            if temp <= 0:
+    def maximumTotalSum(self, ls: List[int]) -> int:
+        ls.sort(reverse=True)
+        ref = ls[0]-1
+        for i in range(1, len(ls)):
+            ls[i] = min(ls[i], ref)
+            ref = ls[i]-1
+            if ls[i] == 0:
                 return -1
-            minval = temp
-            hmap.add(temp)
-            res += temp
-        return res
+        print(ls)
+        return sum(ls)
