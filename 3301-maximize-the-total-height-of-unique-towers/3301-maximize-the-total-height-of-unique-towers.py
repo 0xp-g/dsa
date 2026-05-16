@@ -7,5 +7,4 @@ class Solution:
             ref = ls[i]-1
             if ls[i] == 0:
                 return -1
-        print(ls)
         return sum(ls)
