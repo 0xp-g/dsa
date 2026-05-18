@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0xp-g/dsa/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/0xp-g/dsa/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/0xp-g/dsa/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/0xp-g/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/0xp-g/dsa/tree/master/0039-combination-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0xp-g/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xp-g/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0xp-g/dsa/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/0xp-g/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/0xp-g/dsa/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
