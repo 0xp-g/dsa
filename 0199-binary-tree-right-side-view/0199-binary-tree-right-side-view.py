@@ -6,22 +6,16 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []
-        hmap = defaultdict(list)
         res = []
-        dq = deque()
-        dq.append(root)
-        depth = 0
-        while dq:
-            for _ in range(len(dq)):
-                node = dq.popleft()
-                hmap[depth].append(node.val)
-                if node.left:
-                    dq.append(node.left)
-                if node.right:
-                    dq.append(node.right)
-            depth += 1
-        for _, v in hmap.items():
-            res.append(v[-1])
+        row_map = defaultdict(list)
+        def dfs(node, r, c):
+            if not node:
+                return
+            dfs(node.right, r+1, c+1)
+            row_map[r].append((node.val))
+            dfs(node.left, r+1, c-1)
+        dfs(root, 0, 0)
+        row_map = dict(sorted(row_map.items()))
+        for v in row_map.values():
+            res.append(v[0])
         return res
