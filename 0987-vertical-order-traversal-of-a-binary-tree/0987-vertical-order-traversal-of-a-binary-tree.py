@@ -6,20 +6,26 @@
 #         self.right = right
 class Solution:
     def verticalTraversal(self, root: Optional[TreeNode]) -> List[List[int]]:
-        res = []
-        hmap = dict()
-        def bfs(node, row, col):
-            nonlocal hmap
+        col_map = defaultdict(list)
+        ans = []
+        def dfs(node, r, c):
+
             if not node:
                 return
-            if col not in hmap:
-                hmap[col] = []
-            hmap[col].append((node.val, row))
-            bfs(node.left, row + 1, col-1)
-            bfs(node.right, row + 1, col+1)
-        bfs(root, 0, 0)
-        hmap = dict(sorted(hmap.items(), key = lambda x : x[0]))
-        for k, v in hmap.items():
-            ls = sorted(v, key=lambda x:(x[1], x[0]))
-            res.append([x[0] for x in ls])
-        return res
+            col_map[c].append((node.val, r))
+            dfs(node.left, r+1, c-1)
+            dfs(node.right, r + 1, c+1)
+            return
+        dfs(root, 0, 0)
+        hmap = dict(sorted(col_map.items(), key = lambda x:x[0]))
+        print(hmap)
+        res = []
+        for ls in hmap.values():
+            res.append(sorted(ls, key = lambda x:(x[1], x[0])))
+        print(res)
+        for i in range(len(res)):
+            temp = []
+            for j in range(len(res[i])):
+                temp.append(res[i][j][0])
+            ans.append(temp)
+        return ans
