@@ -3,12 +3,11 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        n, m, visited = len(grid), len(grid[-1]), set()
+        n, m, = len(grid), len(grid[-1]),
         def dfs(r, c):
             if r < 0 or r >= n or c < 0 or c >= m or grid[r][c] == 'X' or grid[r][c] =='S':
                 return
             
-            visited.add((r, c))
             grid[r][c] = 'S'
             dfs(r+1, c)
             dfs(r, c+1)
