@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xp-g/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/0xp-g/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/0xp-g/dsa/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/0xp-g/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xp-g/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/0xp-g/dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/0xp-g/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/0xp-g/dsa/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/0xp-g/dsa/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/0xp-g/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/0xp-g/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0xp-g/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/0xp-g/dsa/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xp-g/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/0xp-g/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/0xp-g/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/0xp-g/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/0xp-g/dsa/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/0xp-g/dsa/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/0xp-g/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/0xp-g/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 | [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
