@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/0xp-g/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/0xp-g/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/0xp-g/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/0xp-g/dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/0xp-g/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/0xp-g/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
