@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/0xp-g/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/0xp-g/dsa/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0xp-g/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/0xp-g/dsa/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/0xp-g/dsa/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/0xp-g/dsa/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/0xp-g/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xp-g/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/0xp-g/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xp-g/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/0xp-g/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/0xp-g/dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/0xp-g/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/0xp-g/dsa/tree/master/0322-coin-change) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
 ## Linked List
 |  |
