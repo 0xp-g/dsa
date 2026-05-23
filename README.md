@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/0xp-g/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/0xp-g/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/0xp-g/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/0xp-g/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/0xp-g/dsa/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/0xp-g/dsa/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
+| [1020-number-of-enclaves](https://github.com/0xp-g/dsa/tree/master/1020-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
