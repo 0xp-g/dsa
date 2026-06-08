@@ -1,21 +1,16 @@
 class Solution:
     def maxProfit(self, k: int, prices: List[int]) -> int:
-        n = len(prices)
-        @lru_cache(None)
-        def dp(i, hold, cap):
-            if i >= n or cap == 0:
+        n  = len(prices)
+        @cache
+        def dp(i, hold, transactions_so_far):
+            if i == n or transactions_so_far == k:
                 return 0
-            
             if hold:
-                #we can sell it today or sell it tomorrow:
-                sell = prices[i] + dp(i + 1, False, cap-1)
-                wait = dp(i + 1, True, cap)
-                res = max(sell, wait)
+                sell_now = prices[i] + dp(i, False, transactions_so_far+1)
+                sell_later = dp(i+1, True, transactions_so_far)
+                return max(sell_now, sell_later)
             else:
-                #not holding stock, means we can buy today or wait and buy tomorrow
-                buy = -prices[i] + dp(i + 1, True, cap)
-                wait = dp(i + 1, False, cap)
-                res = max(buy, wait)
-
-            return res
-        return dp(0, False, k)
+                buy_now = - prices[i] + dp(i+1, True, transactions_so_far) 
+                buy_later = dp(i+1, False, transactions_so_far)
+                return max(buy_now, buy_later)
+        return dp(0, False, 0)
