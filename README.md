@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/0xp-g/dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/0xp-g/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/0xp-g/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/0xp-g/dsa/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/0xp-g/dsa/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/0xp-g/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/0xp-g/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0xp-g/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/0xp-g/dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/0xp-g/dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xp-g/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/0xp-g/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
