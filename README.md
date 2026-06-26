@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/0xp-g/dsa/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Design
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/0xp-g/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/0xp-g/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/0xp-g/dsa/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/0xp-g/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/0xp-g/dsa/tree/master/0257-binary-tree-paths) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/0xp-g/dsa/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/0xp-g/dsa/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Graph Theory
 |  |
 | ------- |
