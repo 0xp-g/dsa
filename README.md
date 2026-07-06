@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/0xp-g/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1288-remove-covered-intervals](https://github.com/0xp-g/dsa/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/0xp-g/dsa/tree/master/1313-decompress-run-length-encoded-list) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/0xp-g/dsa/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/0xp-g/dsa/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/0xp-g/dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
