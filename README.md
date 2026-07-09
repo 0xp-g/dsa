@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/0xp-g/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/0xp-g/dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/0xp-g/dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/0xp-g/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/0xp-g/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Interactive
 |  |
 | ------- |
