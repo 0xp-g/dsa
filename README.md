@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/0xp-g/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/0xp-g/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/0xp-g/dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0xp-g/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/0xp-g/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/0xp-g/dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/0xp-g/dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0xp-g/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/0xp-g/dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/0xp-g/dsa/tree/master/0234-palindrome-linked-list) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/0xp-g/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/0xp-g/dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0xp-g/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/0xp-g/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/0xp-g/dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/0xp-g/dsa/tree/master/0876-middle-of-the-linked-list) |
