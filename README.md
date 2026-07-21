@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/0xp-g/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/0xp-g/dsa/tree/master/0733-flood-fill) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/0xp-g/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/0xp-g/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/0xp-g/dsa/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/0xp-g/dsa/tree/master/0904-fruit-into-baskets) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/0xp-g/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/0xp-g/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/0xp-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/0xp-g/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/0xp-g/dsa/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/0xp-g/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/0xp-g/dsa/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/0xp-g/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/0xp-g/dsa/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/0xp-g/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/0xp-g/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/0xp-g/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/0xp-g/dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/0xp-g/dsa/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/0xp-g/dsa/tree/master/0621-task-scheduler) |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/0xp-g/dsa/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
@@ -716,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/0xp-g/dsa/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
