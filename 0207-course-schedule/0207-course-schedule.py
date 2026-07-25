@@ -1,21 +1,28 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = defaultdict(list)
-        for x in prerequisites:
-            adj[x[0]].append(x[1])
-        color = defaultdict(int)
-        def dfs(n):
-            color[n] = 1
-            for neighbor in adj[n]:
-                if color[neighbor] == 1:
-                    return True
-                if color[neighbor] == 0:
-                    if dfs(neighbor):
-                        return True
-            color[n] = 2
-            return False
-        for i in range(numCourses):
-            if color[i] == 0:
-                if dfs(i):
-                    return False
-        return True
+        if not prerequisites:
+            return True
+        graph = defaultdict(list)
+        indegree = dict()
+        for a, b in prerequisites:
+            indegree[a] = 0
+            indegree[b] = 0
+            graph[a].append(b)
+        for k in graph.keys():
+            for node in graph[k]:
+                indegree[node] += 1
+        dq = deque()
+        for k, v in indegree.items():
+            if v == 0:
+                dq.append(k)
+        processed = 0
+        while dq:
+            node = dq.popleft()
+            print(node)
+            processed += 1
+            for nei in graph[node]:
+                indegree[nei] -= 1
+                if indegree[nei] == 0:
+                    dq.append(nei)
+        print(processed, numCourses)
+        return processed == len(graph)
