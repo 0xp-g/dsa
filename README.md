@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0xp-g/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/0xp-g/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/0xp-g/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
