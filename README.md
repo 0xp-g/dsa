@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/0xp-g/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/0xp-g/dsa/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/0xp-g/dsa/tree/master/0187-repeated-dna-sequences) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/0xp-g/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/0xp-g/dsa/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/0xp-g/dsa/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/0xp-g/dsa/tree/master/0399-evaluate-division) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/0xp-g/dsa/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/0xp-g/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/0xp-g/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0895-maximum-frequency-stack](https://github.com/0xp-g/dsa/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/0xp-g/dsa/tree/master/0981-time-based-key-value-store) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/0xp-g/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/0xp-g/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xp-g/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xp-g/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/0xp-g/dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0792-number-of-matching-subsequences](https://github.com/0xp-g/dsa/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Indexed Tree
 |  |
