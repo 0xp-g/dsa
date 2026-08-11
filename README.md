@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/0xp-g/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/0xp-g/dsa/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xp-g/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/0xp-g/dsa/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3453-separate-squares-i](https://github.com/0xp-g/dsa/tree/master/3453-separate-squares-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/0xp-g/dsa/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xp-g/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/0xp-g/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/0xp-g/dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xp-g/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/0xp-g/dsa/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/0xp-g/dsa/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0xp-g/dsa/tree/master/3661-maximum-walls-destroyed-by-robots) |
