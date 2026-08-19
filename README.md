@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/0xp-g/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/0xp-g/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/0xp-g/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/0xp-g/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/0xp-g/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/0xp-g/dsa/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xp-g/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/0xp-g/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
+| [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0xp-g/dsa/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/0xp-g/dsa/tree/master/0234-palindrome-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/0xp-g/dsa/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/0xp-g/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/0xp-g/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/0xp-g/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/0xp-g/dsa/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/0xp-g/dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/0xp-g/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Binary Search Tree
