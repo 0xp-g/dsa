@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/0xp-g/dsa/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/0xp-g/dsa/tree/master/2351-first-letter-to-appear-twice) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/0xp-g/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0895-maximum-frequency-stack](https://github.com/0xp-g/dsa/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/0xp-g/dsa/tree/master/0981-time-based-key-value-store) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [3797-design-spreadsheet](https://github.com/0xp-g/dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/0xp-g/dsa/tree/master/3827-implement-router) |
 ## Matrix
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/0xp-g/dsa/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/0xp-g/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/0xp-g/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/0xp-g/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/0xp-g/dsa/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
