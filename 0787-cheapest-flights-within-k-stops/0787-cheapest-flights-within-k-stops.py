@@ -6,7 +6,7 @@ class Solution:
             graph[u].append((v, w))
 
         INF = float('inf')
-
+        #flight_used = edges
         # dist[node][flights_used]
         dist = [[INF] * (k + 2) for _ in range(n)]
         dist[src][0] = 0
@@ -15,9 +15,6 @@ class Solution:
 
         while pq:
             cost, node, flights_used = heapq.heappop(pq)
-
-            if node == dst:
-                return cost
 
             if cost > dist[node][flights_used]:
                 continue
@@ -31,9 +28,6 @@ class Solution:
 
                 if new_cost < dist[nei][new_flights]:
                     dist[nei][new_flights] = new_cost
-                    heapq.heappush(
-                        pq,
-                        (new_cost, nei, new_flights)
-                    )
-
-        return -1
+                    heapq.heappush(pq,(new_cost, nei, new_flights))
+        res = min(dist[dst]) 
+        return res if res != INF else -1
