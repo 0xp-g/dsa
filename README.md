@@ -811,4 +811,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/0xp-g/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/0xp-g/dsa/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/0xp-g/dsa/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
