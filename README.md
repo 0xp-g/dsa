@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/0xp-g/dsa/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2270-number-of-ways-to-split-array](https://github.com/0xp-g/dsa/tree/master/2270-number-of-ways-to-split-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/0xp-g/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/0xp-g/dsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/0xp-g/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/0xp-g/dsa/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/0xp-g/dsa/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/0xp-g/dsa/tree/master/2278-percentage-of-letter-in-string) |
 | [2325-decode-the-message](https://github.com/0xp-g/dsa/tree/master/2325-decode-the-message) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/0xp-g/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/0xp-g/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3607-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/0xp-g/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0xp-g/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/0xp-g/dsa/tree/master/0802-find-eventual-safe-states) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/0xp-g/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/0xp-g/dsa/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/0xp-g/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3607-power-grid-maintenance](https://github.com/0xp-g/dsa/tree/master/3607-power-grid-maintenance) |
 ## Tree
 |  |
@@ -710,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/0xp-g/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1993-operations-on-tree](https://github.com/0xp-g/dsa/tree/master/1993-operations-on-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/0xp-g/dsa/tree/master/2236-root-equals-sum-of-children) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/0xp-g/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Binary Tree
 |  |
 | ------- |
