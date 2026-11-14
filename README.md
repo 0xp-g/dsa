@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0xp-g/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/0xp-g/dsa/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/0xp-g/dsa/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/0xp-g/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3453-separate-squares-i](https://github.com/0xp-g/dsa/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/0xp-g/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/0xp-g/dsa/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/0xp-g/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0xp-g/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/0xp-g/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/0xp-g/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/0xp-g/dsa/tree/master/2270-number-of-ways-to-split-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/0xp-g/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3771-total-score-of-dungeon-runs](https://github.com/0xp-g/dsa/tree/master/3771-total-score-of-dungeon-runs) |
 ## Greedy
 |  |
