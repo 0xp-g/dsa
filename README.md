@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/0xp-g/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/0xp-g/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/0xp-g/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/0xp-g/dsa/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/0xp-g/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/0xp-g/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/0xp-g/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0xp-g/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/0xp-g/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/0xp-g/dsa/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/0xp-g/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/0xp-g/dsa/tree/master/1143-longest-common-subsequence) |
 | [1504-count-submatrices-with-all-ones](https://github.com/0xp-g/dsa/tree/master/1504-count-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/0xp-g/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/0xp-g/dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/0xp-g/dsa/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/0xp-g/dsa/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/0xp-g/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/0xp-g/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/0xp-g/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/0xp-g/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/0xp-g/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/0xp-g/dsa/tree/master/2270-number-of-ways-to-split-array) |
